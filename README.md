@@ -1,46 +1,75 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/GabrielBarcelos1/Profile-card-component">
 
-## Available Scripts
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/GabrielBarcelos1/Profile-card-component">
+  
+  <a href="https://github.com/GabrielBarcelos1/Profile-card-component/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/GabrielBarcelos1/Profile-card-component">
+  </a>
 
-In the project directory, you can run:
+  <a href="https://github.com/GabrielBarcelos1/Profile-card-component/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/GabrielBarcelos1/Profile-card-component">
+  </a>
 
-### `yarn start`
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+</p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<p align="center">
+  <a href="#-tecnologias">🚀 Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">💻 Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-frontend">🌐 Frontend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-executar">🔖Como Executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-contribuir">🤔 Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-licença">🧾 Licença</a>
+</p>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+<br>
 
-### `yarn test`
+## 🚀 Tecnologias
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-### `yarn build`
+- [React.js]()
+- [Typescrpit]()
+- [Css3]()
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 💻 Projeto
+O projeto "Profile Card" foi desenvolvido no intuito de praticar conceitos de React.Js como responsividade e estilização com o css, mas teve como objetivo principal me introduzir ao typescript com um projeto simples, que foi retirado do site https://www.frontendmentor.io/solutions/profile-card-with-reactjs-FSy3uoJ8G, me comprometendo também a partir desse projeto sempre implementar Typescript em todos os próximos projetos.
+<br>
+Site hospedado: https://profilecardchallenge.herokuapp.com/
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🌐 Frontend
+<h1 align="center">
+    <img  src="https://github.com/GabrielBarcelos1/Profile-card-component/blob/main/Screenshot_2.png" />
+</h1>
 
-### `yarn eject`
+    
+## 🔖 Como Executar
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+#### Clonando o projeto
+```sh
+git clone https://github.com/GabrielBarcelos1/Profile-card-component
+cd profile-card-component
+Depois disso é so mecher no projeto.
+```
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## 🤔 Como contribuir
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+- Faça um fork desse repositório;
+- Cria uma branch com a sua feature: `git checkout -b minha-feature`;
+- Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
+- Faça push para a sua branch: `git push origin minha-feature`.
 
-## Learn More
+Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 🧾 Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+
+---
+
+<p align="center">Feito com 💗 by Gabriel Vieira Barcelos</p>
