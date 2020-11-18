@@ -1,0 +1,90 @@
+
+.box-profile{
+    width: 350px;
+    height: 382px;
+    background-color: white;
+    border-radius: 15px;
+}
+.header-profile{
+    background-image: url(../../images/bg-pattern-card.svg);
+    height: 150px;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+}
+.picture-profile{
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ margin-top: -55px;
+
+}
+.border-profile{
+    width: 110px;
+    height: 110px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 100%;
+    background-color: white;
+
+}
+.picture-profile img{
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+}
+.info-profile{
+    margin-top: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+.personal-infos-profile{
+    display: flex;
+    flex-direction: row;
+    gap: 11px;
+    justify-content: center;
+}
+.personal-infos-profile span{
+ color: #969696;
+ font-size: 18px;
+ 
+}
+.personal-infos-profile h3{
+color: #2D3248;
+font-size: 18px;
+}
+.country-profile{
+    margin-top: 10px;
+    color: #969696;
+    font-size: 14px;
+}
+.stats-profile{
+    margin-top: 20px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    gap: 65px;
+    box-shadow: 0px -0.01rem hsl(0deg 0% 59%);
+}
+.stats-profile h3{
+    color: #404A61;
+    font-size: 18px;
+}
+.stats-profile p{
+    color: #90929B;
+    font-size: 10px;
+    margin-top: 5px;
+    letter-spacing: 1px;
+}
+.stats-profile p , .stats-profile h3 {
+    text-align: center;
+}
+.stats-followers-profile,
+ .stats-likes-profile, 
+ .stats-photos-profile{
+margin-top: 30px;
+}
